@@ -34,7 +34,6 @@ section{
 	margin: 30px 10px 10px 10px;
 }
 
-
 .personal-info table{
 	max-width: 90%;
 	text-align: left;
@@ -43,7 +42,6 @@ section{
 .personal-info table td{
 	padding:0 20px;
 }
-
 
 .education table,
 .personal-info table{
@@ -64,7 +62,6 @@ section{
 	list-style-type: circle;
 	text-align: left;
 }
-
 
 .skills table{
     text-align: left;
